@@ -37,7 +37,7 @@ var router = express.Router();
 //   });
 
 router.get('/', function (req, res) {
-  res.json({ title: 'welcome home' });
+  res.json({ title: 'welcome to live app' });
 });
 
 // router.get('/posts', function (req, res) {
